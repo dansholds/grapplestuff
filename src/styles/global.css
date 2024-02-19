@@ -25,11 +25,9 @@
   }
 }
 @font-face {
-  font-family: "Basement";
-  src: url("../fonts/BSBlack.eot");
-  src: url("../fonts/BSBlack.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/BSBlack.woff2") format("woff2"),
-    url("../fonts/BSBlack.woff") format("woff");
+  font-family: "Thunder";
+  src: url("../fonts/Thunder-MediumLC.woff") format("woff"),
+    url("../fonts/Thunder-MediumLC.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
   descent-override: 0%;
